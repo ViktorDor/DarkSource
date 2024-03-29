@@ -1,0 +1,9 @@
+colorama
+socket
+requests
+wmi
+threading
+json
+subprocess
+ctypes
+stat
